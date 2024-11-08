@@ -7,8 +7,9 @@ import NotificacaoProprietario from './notificacaoProprietario';
 
 const TelaProprietario: React.FC = () => {
   const reservas = [
-    { usuario: "Pedro Almeida", data: "07/11/2024", horario: "20:00" },
-    // Adicione mais reservas conforme necessário
+    { usuario: "Pedro Almeida", data: "08/11/2024", horario: "19:40" },
+    { usuario: "Diego Rodrigues", data: "08/11/2024", horario: "20:00" },
+    
   ];
 
   return (
